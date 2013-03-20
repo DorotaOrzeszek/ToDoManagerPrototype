@@ -1,1 +1,1 @@
-A desctop prototype for a to-do management mobile app.
+A desktop prototype for a to-do management mobile app.
