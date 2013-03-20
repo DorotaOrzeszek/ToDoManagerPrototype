@@ -1,0 +1,8 @@
+{
+1: {'fun':10, 'priority': 4, 'name': 'Buy a book'}, 
+2: {'fun':3, 'priority': 3, 'name': 'Wash the car'}, 
+3: {'fun':5, 'priority': 3, 'name': 'Find cake recipe'}, 
+4: {'fun':2, 'priority': 2, 'name': 'Iron the clothes'}, 
+5: {'fun':1, 'priority': 5, 'name': 'Write report for work'}, 
+6: {'fun':50, 'priority': 100, 'name': 'Say hello to Dorothy.'}
+}
